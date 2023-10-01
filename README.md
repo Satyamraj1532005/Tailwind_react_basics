@@ -2,6 +2,7 @@
 ## Basic React project with styling done with Tailwind.
 
 <h1> Author: Satyam Raj<h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
