@@ -1,5 +1,5 @@
 
-##Basic React project with styling done with Tailwind.
+## Basic React project with styling done with Tailwind.
 
 <h1> Author: Satyam Raj<h1>
 
